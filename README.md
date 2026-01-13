@@ -72,7 +72,8 @@ Then open:
 01_data_Wargling.ipynb
 02_Financial_transactions_EDA.ipynb
 
-📊 Power BI Dashboard – Key Insights
+
+## 📊 Power BI Dashboard – Key Insights
 
 -Displays overall performance with Total Sales (4.74M), Total Transactions (18K), and Total Refunds (4.78M).
 -Shows sales distribution by payment method, where credit and digital payments contribute the largest share.
