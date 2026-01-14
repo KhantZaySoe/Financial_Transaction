@@ -32,8 +32,6 @@ This project shows how raw transaction data can be cleaned, explored, and transf
 
 ---
 
----
-
 ## Tools & Technologies
 
 - Python  
